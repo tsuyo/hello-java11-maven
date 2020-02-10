@@ -4,7 +4,7 @@
 
   <groupId>dev.tsuyo</groupId>
   <artifactId>hello-java11-maven</artifactId>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <name>hello-java11-maven</name>
